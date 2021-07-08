@@ -18,4 +18,4 @@ txt = tool.image_to_string(
     builder=pyocr.builders.TextBuilder(tesseract_layout=6)
 )
 print(txt)
-# txt.to_csv test
+# txt.to_csv
