@@ -19,3 +19,5 @@ txt = tool.image_to_string(
 )
 print(txt)
 # txt.to_csv
+
+# （実行コマンド）python3 ocr.py
